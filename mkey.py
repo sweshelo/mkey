@@ -93,7 +93,7 @@ class mkey_generator():
     devices = __props.keys()
     default_device = "CTR"
 
-    def __init__(self, data_path=None, debug=False):
+    def __init__(self, data_path="data", debug=False):
         self._dbg = debug
 
         #
