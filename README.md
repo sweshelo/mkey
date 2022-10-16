@@ -1,8 +1,13 @@
+## Offline version - 3DS
+This fork of the upstream repo is intended to be temp backup of the 3DS parental control unlocker tool mkey.salthax.org in case the site does not quickly update with latest 3DS firmware (which is often the case). It is intended to be run offline. </br>
+Compatible with: 11.15-11.16 US,EU,JP,KR</br>
+- You need python3 installed and windows. 
+- Attempt to unlock your parental controls from your 3DS's System Settings until it gives you an "Inquiry Number" (chose "I forgot" twice).
+- Next, read the rem comments in the "mkey.bat" script in a text editor for the remaining instructions, then run the same .bat script. 
+- Your masterkey should be generated, which you can use to unlock your 3DS in System Settings.
+
 mkey
 ====
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-resentment.svg)](http://forthebadge.com)
-
 mkey is a master key generator for the Parental Controls functionality on various consoles from a *certain vendor*. Currently, this includes the Wii, DSi, 3DS, Wii U and Switch.
 
 This allows resetting Parental Controls (due to being locked out) without having to contact customer support.
