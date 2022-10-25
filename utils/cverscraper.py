@@ -80,7 +80,7 @@ def CVerDownload(tid: str, ver: int):
         return
     head = f.read(2)
     f.close()
-    outfile = f"../data/ctr_{head[0]:02X}_{head[1]:02X}.bin"
+    outfile = f"../data/ctr_{head[0]:02x}_{head[1]:02x}.bin"
     if os.path.exists(outfile):
         print(f"{outfile} already exists! Skipping.")
     else:
