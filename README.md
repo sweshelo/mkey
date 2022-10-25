@@ -37,3 +37,4 @@ ctr.c, ctr.h, utils.c and utils.h are taken from [ctrtool](https://github.com/pr
 * marcan for the Wii reset tool: https://wii.marcan.st/parental
 * neimod for the 3DS v0 reset tool: https://github.com/3dshax/ctr/commit/bcb3734b9a26d0fe7ef66f7d3814406fee797303
 * SALT greetz: WulfyStylez and Shiny Quagsire (^:
+* lifehackerhansol: getting the rest of the old masterkeys and a handy CVER scraper script
