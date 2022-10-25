@@ -1,6 +1,6 @@
 ## Offline version - 3DS
 This fork of the upstream repo is intended to be temp backup of the 3DS parental control unlocker tool mkey.salthax.org in case the site does not quickly update with latest 3DS firmware (which is often the case). It is intended to be run offline. </br>
-Compatible with: 11.15-11.16 US,EU,JP,KR</br>
+Compatible with: 7.2-11.16 US,EU,JP,KR</br>
 - You need python3 installed and windows. 
 - Attempt to unlock your parental controls from your 3DS's System Settings until it gives you an "Inquiry Number" (chose "I forgot" twice).
 - Next, read the rem comments in the "mkey.bat" script in a text editor for the remaining instructions, then run the same .bat script. 
